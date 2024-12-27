@@ -2,24 +2,28 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/styles/style.css">
 </head>
 <body>
 <header>
+    <h1>Moja Strona z Jekyll</h1>
     <nav>
         <ul>
             <li><a href="/">Strona Główna</a></li>
             <li><a href="/about">O mnie</a></li>
             <li><a href="/contact">Kontakt</a></li>
-            <li><a href="/car_care">Pielęgnacja samochodu</a></li>
         </ul>
     </nav>
 </header>
 <main>
-    {{ content }}
+    <div class="content-section">
+        {{ content }}
+    </div>
 </main>
 <footer>
-    <p>&copy; 2024 Moja Strona z Jekyll</p>
+    <p>&copy; 2024 Moja Strona z Jekyll | Wszelkie prawa zastrzeżone</p>
 </footer>
 </body>
 </html>
