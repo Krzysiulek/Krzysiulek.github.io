@@ -1,0 +1,8 @@
+name: "Moja Strona z Jekyll"
+url: "https://twojanazwa.github.io"
+baseurl: ""
+theme: minima
+# Nawigacja
+header_pages:
+  - about.md
+  - contact.md
