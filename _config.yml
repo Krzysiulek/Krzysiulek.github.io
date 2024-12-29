@@ -1,8 +1,0 @@
-name: "Moja Strona z Jekyll"
-url: "https://krzysiulek.github.io"
-baseurl: ""
-theme: minima
-# Nawigacja
-header_pages:
-  - about.md
-  - contact.md
