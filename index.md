@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Strona startowa
 subtitle: Testowa strona startowa
 ---
