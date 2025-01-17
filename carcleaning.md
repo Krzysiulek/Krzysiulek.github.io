@@ -11,5 +11,4 @@ Znajdziesz tutaj praktyczne porady, sprawdzone metody oraz recenzje produktów, 
 
 ### Spis treści
 
-- [Pierwsza pielęgnacja auta](/2024-01-17-carwash-1)
-- [Pierwsza pielęgnacja auta](/2024-01-17-carwash-1/)
+- [Pierwsza pielęgnacja auta](/2025-01-17-carwash-1)
