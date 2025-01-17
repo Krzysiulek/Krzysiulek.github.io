@@ -9,6 +9,7 @@ Witaj na moim blogu poświęconym pielęgnacji samochodów! 🚗✨
 Znajdziesz tutaj praktyczne porady, sprawdzone metody oraz recenzje produktów, które pomogą Ci zadbać o swoje auto jak profesjonalista. Moim celem jest podzielenie się wiedzą i pasją do motoryzacji, aby Twoje auto zawsze wyglądało i działało jak najlepiej.
 
 
-### Ostatnie wpisy
+### Spis treści
 
-- [Pierwsza pielęgnacja auta](/2024-01-17-carwash-1.md)
+- [Pierwsza pielęgnacja auta](/2024-01-17-carwash-1)
+- [Pierwsza pielęgnacja auta](/2024-01-17-carwash-1/)
