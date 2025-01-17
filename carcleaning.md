@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Blog
-subtitle: Pielęgnacja auta
+title: Pielęgnacja auta
+subtitle: Jak zadbać o swoje auto, żeby było piękne i młode
 ---
 
 Witaj na moim blogu poświęconym pielęgnacji samochodów! 🚗✨
@@ -11,4 +11,6 @@ Znajdziesz tutaj praktyczne porady, sprawdzone metody oraz recenzje produktów, 
 
 ### Ostatnie wpisy
 
-- [Pierwsza pielęgnacja auta](carwash_1.html)
+- [Pierwsza pielęgnacja auta](_posts/carwashing/carwash_1.md)
+- [Pierwsza pielęgnacja auta](carwashing/carwash_1.md)
+- [Pierwsza pielęgnacja auta](carwash_1.md)
