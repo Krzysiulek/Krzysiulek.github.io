@@ -44,6 +44,25 @@ layout: base
             {% endif %}
 
             <div class="blog-post">
+                {% if page.toc %}
+                <nav id="toc" class="toc-container">
+                    <h2>Spis treści</h2>
+                    <ul>
+                        {% for heading in page.content | markdownify | strip_html | split: '
+                        <h
+                        ' %}
+                        {% if forloop.index > 1 %}
+                        <li>
+                            <a href="#{{ heading | split: '>' | first | strip | replace: ' ', '-' | downcase }}">
+                                {{ heading | split: '>' | last | strip }}
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </nav>
+                {% endif %}
+
                 {{ content }}
             </div>
 
