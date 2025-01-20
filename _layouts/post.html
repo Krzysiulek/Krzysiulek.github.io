@@ -44,7 +44,10 @@ layout: base
             {% endif %}
 
             <div class="blog-post">
-                {{ content | toc }}
+                <div id="table-of-contents">
+                    {% toc %}
+                </div>
+                {{ content }}
             </div>
 
             {% if page.tags.size > 0 %}
